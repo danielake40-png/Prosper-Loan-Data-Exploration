@@ -41,4 +41,4 @@ This exploratory analysis demonstrates practical skills in data assessment, visu
 
 # Author: Daniel Ake
 
-Project Type: Python Exploratory Data Analysis
+## Project Type: Python Exploratory Data Analysis
